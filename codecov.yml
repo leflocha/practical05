@@ -1,5 +1,5 @@
 codecov:
-  token: c46667b6-e846-4f90-95cf-06ecb509315e
+  token: 'c46667b6-e846-4f90-95cf-06ecb509315e'
   max_report_age: off
 
 comment: false
